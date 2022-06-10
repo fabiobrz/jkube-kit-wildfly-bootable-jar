@@ -1,0 +1,1 @@
+# jkube-kit-wildfly-bootable-jar
